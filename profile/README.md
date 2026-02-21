@@ -25,7 +25,8 @@ To deploy the observability stack locally, start with the [quickstart guide](htt
 
 You may also find this accompanying video helpful, as it covers much of the quickstart and some of the vLLM guide, and includes a basic walkthrough of the Prove AI Dashboard: 
 
-[![Prove AI Demo](images/demo-thumbnail.png)](https://www.youtube.com/watch?v=NYulFLqZgMY)
+
+[![Prove AI Demo](https://raw.githubusercontent.com/prove-ai/observability-pipeline/main/images/demo-thumbnail.png)](https://www.youtube.com/watch?v=NYulFLqZgMY)
 
 For a detailed overview of the platform's architecture and design rationale, read the [technical whitepaper](https://github.com/prove-ai/observability-pipeline/blob/main/docs/prove-technical-whitepaper.mdx).
 
