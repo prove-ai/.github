@@ -1,6 +1,6 @@
 # Welcome to Prove AI
 
-Prove AI is building an observability-first foundation for production generative AI systems. Our long-term goal is to help engineering teams understand, diagnose, and ultimately remediate failures across complex AI pipelines—LLM inference, retrieval, agent orchestration, and everything in between.
+[Prove AI](https://proveai.com) is building an observability-first foundation for production generative AI systems. Our long-term goal is to help engineering teams understand, diagnose, and ultimately remediate failures across complex AI pipelines—LLM inference, retrieval, agent orchestration, and everything in between.
 
 This organization hosts Prove AI v0.1, the first building block toward that vision.
 
@@ -19,16 +19,15 @@ This release is intentionally scoped to making AI systems observable first; with
 
 ## Get Started
 
-To learn more about Prove AI, see [proveai.com](https://proveai.com).
-
 To deploy the observability stack locally, start with the [quickstart guide](https://github.com/prove-ai/observability-pipeline/blob/main/docs/guides/quick-start.md). A working pipeline can be running in under an hour. 
 
-You may also find this accompanying video helpful, as it covers much of the quickstart and some of the vLLM guide, and includes a basic walkthrough of the Prove AI Dashboard: 
-
-
-[![Prove AI Demo](https://raw.githubusercontent.com/prove-ai/observability-pipeline/main/images/demo-thumbnail.png)](https://www.youtube.com/watch?v=NYulFLqZgMY)
+Afterwards, head to the [Prove AI dashboard](https://proveai-integration.proveai.com/) to start experimenting with metrics.
 
 For a detailed overview of the platform's architecture and design rationale, read the [technical whitepaper](https://github.com/prove-ai/observability-pipeline/blob/main/docs/prove-technical-whitepaper.mdx).
+
+You may also find this accompanying video helpful, as it covers much of the quickstart and some of the vLLM guide, and includes a basic walkthrough of the dashboard: 
+
+[![Prove AI Demo](https://raw.githubusercontent.com/prove-ai/observability-pipeline/main/images/demo-thumbnail.png)](https://www.youtube.com/watch?v=NYulFLqZgMY)
 
 ## Repositories
 
