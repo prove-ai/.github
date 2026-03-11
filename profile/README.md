@@ -21,7 +21,7 @@ This release is intentionally scoped to making AI systems observable first; with
 
 To deploy the observability stack locally, start with the [quickstart guide](https://github.com/prove-ai/observability-pipeline/blob/main/docs/guides/quick-start.md). A working pipeline can be running in under an hour. 
 
-Afterwards, you can head to the Prove AI dashboard to start experimenting with metrics. You'll need to go through the [sign up](https://proveai-integration.proveai.com/signup) process first, or you can [log in](proveai-integration.proveai.com) if you've already done that. 
+Afterwards, you can head to the Prove AI dashboard to start experimenting with metrics. You'll need to go through the [sign up](https://proveai-integration.proveai.com/signup) process first, or you can [log in](https://proveai-integration.proveai.com/) if you've already done that. 
 
 For a detailed overview of the platform's architecture and design rationale, read the [technical whitepaper](https://github.com/prove-ai/observability-pipeline/blob/main/docs/prove-technical-whitepaper.mdx).
 
