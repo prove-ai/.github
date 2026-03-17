@@ -41,26 +41,20 @@ You may also find this accompanying video helpful, as it covers much of the quic
 - [UI Walkthrough](https://github.com/prove-ai/observability-pipeline/blob/main/docs/ui-walkthrough.mdx): navigate the Prove AI dashboard, evaluations, guardrails, and configuration interfaces.
 
 ## Prove AI Legal Notices 
-This repository contains the Prove AI observability pipeline, which incorporates and bundles several third-party open-source components.
-
-### 1. Prove AI Observability Pipeline
-Licensed under the MIT License. See the LICENSE file in this repository for the full license text.
+This repository contains the Prove AI observability pipeline, which incorporates and bundles several third-party components.
 
 (c) 2026. Prove AI AG. All Rights Reserved.
 
 ### 2. OpenTelemetry (OTel)
-This product includes software developed by the OpenTelemetry authors, licensed under the Apache License 2.0.
+This product includes software developed by the OpenTelemetry authors.
 
-- Source: https://github.com/open-telemetry
-- License: http://www.apache.org/licenses/LICENSE-2.0
+- [Source](https://github.com/open-telemetry)
 
 ### 3. Prometheus
-This product includes software developed by the Prometheus authors, licensed under the Apache License 2.0.
+This product includes software developed by the Prometheus authors.
 
-- Source: https://github.com/prometheus/prometheus
-- License: http://www.apache.org/licenses/LICENSE-2.0
+- [Source](https://github.com/prometheus/prometheus)
 
 ### 4. Disclaimer of Warranty
 TO THE EXTENT PERMITTED BY LAW, ALL OPEN-SOURCE COMPONENTS ARE PROVIDED "AS IS" WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
-
 
