@@ -19,7 +19,7 @@ This release is intentionally scoped to making AI systems observable first; with
 
 ## Get Started
 
-To deploy the observability stack locally, start with the [quickstart guide](https://github.com/prove-ai/observability-pipeline/blob/main/docs/guides/quick-start.md). A working pipeline can be running in under an hour. 
+To deploy the observability stack locally, start with the [quickstart guide](https://github.com/prove-ai/observability-pipeline/blob/main/docs/guides/quick-start.md). A working pipeline can be running in under an hour.
 
 Afterwards, you can head to the Prove AI dashboard to start experimenting with metrics. You'll need to go through the [sign up](https://proveai-integration.proveai.com/signup) process first, or you can [log in](https://proveai-integration.proveai.com/) if you've already done that. 
 
@@ -39,3 +39,7 @@ You may also find this accompanying video helpful, as it covers much of the quic
 - [Quick Start](https://github.com/prove-ai/observability-pipeline/blob/main/docs/guides/quick-start.md): deploy the full observability stack with Docker Compose.
 - [vLLM Integration](https://github.com/prove-ai/observability-pipeline/blob/main/docs/guides/vllm-guide.md): instrument vLLM inference endpoints with Prometheus and OpenTelemetry.
 - [UI Walkthrough](https://github.com/prove-ai/observability-pipeline/blob/main/docs/ui-walkthrough.mdx): navigate the Prove AI dashboard, evaluations, guardrails, and configuration interfaces.
+
+## Disclaimer of Warranty
+TO THE EXTENT PERMITTED BY LAW, ALL OPEN-SOURCE COMPONENTS ARE PROVIDED "AS IS" WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
